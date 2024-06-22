@@ -1,5 +1,6 @@
 export default function Blog() {
     return (
-        <div>Helloooooooo</div>
+        <div>Helloooooooo Aom</div>
+
     )
 }
